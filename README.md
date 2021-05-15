@@ -15,7 +15,7 @@ High level snapshot (in table form) of the district's key metrics.
 
 Overview table that summarizes key metrics about each school. 
 
-![image-20210515173232334](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515173232334.png)
+![image-20210515174909384](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515174909384.png)
 
 ### Top Performing Schools (By % Overall Passing)
 
