@@ -20,3 +20,11 @@ Overview table that summarizes key metrics about each school.
 ### Top Performing Schools (By % Overall Passing)
 
 Top 5 performing schools based on % Overall Passing.
+
+![image-20210515175802205](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515175802205.png)
+
+### Bottom Performing Schools (By % Overall Passing)
+
+Bottom 5 performing schools based on % Overall Passing.
+
+![image-20210515175903674](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515175903674.png)
