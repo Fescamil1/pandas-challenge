@@ -43,6 +43,24 @@ Lists the average Reading Score for students of each grade level (9th, 10th, 11t
 
 ### Scores by School Spending
 
-- Shows school performances based on average Spending Ranges (Per Student). 
+Shows school performances based on average Spending Ranges (Per Student). ![image-20210515190545507](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515190545507.png)
+
+### Scores by School Size
+
+Show school performance based on school size (Small, Medium, Large).
+
+![image-20210515191628667](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515191628667.png)
+
+### Scores by School Type
+
+![image-20210515192416140](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210515192416140.png)
+
+
+
+### **Observations** 
+
+* Charter schools seem to have performed better than the district schools on all metrics. The difference was more significant when comparing the percentage of students passing Math.  
+
+* Contrary to what was expected, the schools with larger budgets did not outperform schools with lower budgets. The top performing schools had significantly smaller budgets. However, the top performing schools also had less students than the bottom performing schools. One should analyze if student to teacher ratio had a significant impact in the students performance. 
 
   
